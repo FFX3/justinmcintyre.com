@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>justinmcintyre.com</title>
+	<title>Tech &#8211; justinmcintyre.com</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 14 Apr 2022 04:22:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>Started Learning Vim</title>
-		<link>./../started-learning-vim/index.html</link>
+		<link>./../../../started-learning-vim/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 14 Apr 2022 04:16:58 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
-		<guid isPermaLink="false">./../index.html?p=24</guid>
+		<guid isPermaLink="false">./../../../index.html?p=24</guid>
 
 					<description><![CDATA[Why did I start learning Vim? It started as a simple curiosity. A few days ago, Vim was only a program that forced me to reboot my computer when I first started exploring the Linux OS. Initially, I wasn't sure how Vim could enable a writer to be noticeably more capable at the keyboard. I [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h1>Why did I start learning Vim?</h1>
